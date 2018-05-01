@@ -1,0 +1,21 @@
+{
+  "name": "@rijk/gravatar",
+  "version": "1.0.0",
+  "description": "🙆🏼‍♂️ Mini util library that converts an email address to a Gravatar link",
+  "main": "index.js",
+  "repository": "rijkvanzanten/gravatar",
+  "keywords": [
+    "gravatar",
+    "avatar",
+    "url"
+  ],
+  "author": "Rijk van Zanten <rijkvanzanten@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rijkvanzanten/gravatar/issues"
+  },
+  "homepage": "https://github.com/rijkvanzanten/gravatar#readme",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
